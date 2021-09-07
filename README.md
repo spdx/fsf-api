@@ -10,26 +10,26 @@ Ideally we'll hand this repository over to the FSF once they're ready to maintai
 ## Endpoints
 
 <a name="licenses.json"></a>
-You can pull an array of identifiers from [https://wking.github.io/fsf-api/licenses.json](https://wking.github.io/fsf-api/licenses.json).
+You can pull an array of identifiers from [https://spdx.github.io/fsf-api/licenses.json](https://spdx.github.io/fsf-api/licenses.json).
 
 <a name="licenses-full.json"></a>
-You can pull an object with all the license data [https://wking.github.io/fsf-api/licenses-full.json](https://wking.github.io/fsf-api/licenses-full.json).
+You can pull an object with all the license data [https://spdx.github.io/fsf-api/licenses-full.json](https://spdx.github.io/fsf-api/licenses-full.json).
 
 You can pull an individual license from a few places:
 
 * <a name="by-fsf-id"></a>
     Using their FSF ID:
 
-        https://wking.github.io/fsf-api/{id}.json
+        https://spdx.github.io/fsf-api/{id}.json
 
-    For example [https://wking.github.io/fsf-api/Expat.json](https://wking.github.io/fsf-api/Expat.json).
+    For example [https://spdx.github.io/fsf-api/Expat.json](https://spdx.github.io/fsf-api/Expat.json).
 
 * <a name="by-non-fsf-id"></a>
     Using a non-FSF ID, according to the mapping between other scheme and the FSF scheme asserted by this API:
 
-        https://wking.github.io/fsf-api/{scheme}/{id}.json
+        https://spdx.github.io/fsf-api/{scheme}/{id}.json
 
-    For example [https://wking.github.io/fsf-api/spdx/MIT.json](https://wking.github.io/fsf-api/spdx/MIT.json).
+    For example [https://spdx.github.io/fsf-api/spdx/MIT.json](https://spdx.github.io/fsf-api/spdx/MIT.json).
     This API currently [attempts](#caveats) to maintain the following mappings:
 
     * `spdx`, using [the SPDX identifiers][spdx-list].
@@ -81,6 +81,9 @@ There are currently some hacks in [the pulling script](pull.py):
     For example, the FSF currently only distinguishes between `gpl-2-compatible` and `gpl-3-compatible` in text, so licenses that are only compatible with one or the other need tag overrides.
 
 Until these hacks are addressed, license IDs and the `tags` and `identifiers` fields should be taken with a grain of salt.
+
+## Credits
+The original implementation of the fsf-api was provided by @wking.  This repository is now being maintained by the SPDX community.
 
 ## Contributing
 
