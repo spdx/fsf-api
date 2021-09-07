@@ -95,6 +95,7 @@ TAG_OVERRIDES = {
     'GNUGPLv3': {'libre', 'gpl-3-compatible'},
     'GPLv2': {'libre', 'gpl-2-compatible'},
     'LGPLv3': {'libre', 'gpl-3-compatible'},
+    'apache2': {'libre', 'gpl-3-compatible'},
 }
 
 IDENTIFIERS = {
