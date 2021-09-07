@@ -1,0 +1,11 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "anticapitalist",
+  "name": "Anti-Capitalist Software License",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#anticapitalist"
+  ]
+}

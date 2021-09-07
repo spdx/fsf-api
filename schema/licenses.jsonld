@@ -9,7 +9,7 @@
     },
     "licenses": {
       "@container": "@index",
-      "@id": "https://wking.github.io/fsf-api/schema/license.jsonld"
+      "@id": "https://spdx.github.io/fsf-api/schema/license.jsonld"
     },
     "name": {
       "@id": "schema:name"

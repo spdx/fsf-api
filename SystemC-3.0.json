@@ -1,12 +1,12 @@
 {
-  "@context": "https://wking.github.io/fsf-api/schema/license.jsonld",
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
   "id": "SystemC-3.0",
-  "name": "SystemC",
+  "name": "SystemC \u201cOpen Source\u201d License, Version 3.0",
   "tags": [
     "non-free"
   ],
   "uris": [
     "https://www.gnu.org/licenses/license-list.html#SystemC-3.0",
-    "http://www.accellera.org/about/policies/SystemC_Open_Source_License.pdf"
+    "https://directory.fsf.org/wiki/License:SCOSL-3.0"
   ]
 }

@@ -1,9 +1,11 @@
 {
-  "@context": "https://wking.github.io/fsf-api/schema/license.jsonld",
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
   "id": "FreeBSD",
   "identifiers": {
     "spdx": [
-      "BSD-2-Clause-FreeBSD"
+      "BSD-2-Clause-FreeBSD",
+      "BSD-2-Clause",
+      "BSD-2-Clause-NetBSD"
     ]
   },
   "name": "FreeBSD license",

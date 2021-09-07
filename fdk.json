@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "fdk",
+  "name": "Fraunhofer FDK AAC license",
+  "tags": [
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#fdk",
+    "http://directory.fsf.org/wiki/License:fdk"
+  ]
+}

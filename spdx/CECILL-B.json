@@ -1,5 +1,5 @@
 {
-  "@context": "https://wking.github.io/fsf-api/schema/license.jsonld",
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
   "id": "CeCILL-B",
   "identifiers": {
     "spdx": [
@@ -12,6 +12,6 @@
   ],
   "uris": [
     "https://www.gnu.org/licenses/license-list.html#CeCILL-B",
-    "https://directory.fsf.org/wiki/License:CeCILL-B"
+    "https://cecill.info/licences/Licence_CeCILL-B_V1-en.html"
   ]
 }

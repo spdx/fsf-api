@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "PPL3a",
+  "name": "Personal Public License Version 3a",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#PPL3a",
+    "https://directory.fsf.org/wiki/License:PPL3a"
+  ]
+}

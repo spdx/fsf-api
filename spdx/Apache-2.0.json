@@ -1,5 +1,5 @@
 {
-  "@context": "https://wking.github.io/fsf-api/schema/license.jsonld",
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
   "id": "apache2",
   "identifiers": {
     "spdx": [
@@ -8,7 +8,6 @@
   },
   "name": "Apache License, Version 2.0",
   "tags": [
-    "gpl-2-compatible",
     "gpl-3-compatible",
     "libre"
   ],

@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "Anti-996",
+  "name": "Anti-996 License",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#Anti-996",
+    "https://directory.fsf.org/wiki/License:996"
+  ]
+}

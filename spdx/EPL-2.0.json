@@ -1,5 +1,5 @@
 {
-  "@context": "https://wking.github.io/fsf-api/schema/license.jsonld",
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
   "id": "EPL2",
   "identifiers": {
     "spdx": [
@@ -12,6 +12,6 @@
   ],
   "uris": [
     "https://www.gnu.org/licenses/license-list.html#EPL2",
-    "http://directory.fsf.org/wiki/License:EPLv2.0"
+    "https://directory.fsf.org/wiki/License:EPL-2.0"
   ]
 }

@@ -1,11 +1,12 @@
 {
-  "@context": "https://wking.github.io/fsf-api/schema/license.jsonld",
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
   "id": "Plan9",
   "name": "Old Plan 9 license",
   "tags": [
     "non-free"
   ],
   "uris": [
-    "https://www.gnu.org/licenses/license-list.html#Plan9"
+    "https://www.gnu.org/licenses/license-list.html#Plan9",
+    "https://directory.fsf.org/wiki/License:Old-plan9"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "@context": "https://wking.github.io/fsf-api/schema/license.jsonld",
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
   "id": "Zimbra",
   "identifiers": {
     "spdx": [
@@ -12,6 +12,6 @@
   ],
   "uris": [
     "https://www.gnu.org/licenses/license-list.html#Zimbra",
-    "http://www.zimbra.com/license/zimbra-public-license-1-3.html"
+    "https://directory.fsf.org/wiki/License:ZPL-1.3"
   ]
 }

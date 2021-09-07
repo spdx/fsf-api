@@ -1,5 +1,5 @@
 {
-  "@context": "https://wking.github.io/fsf-api/schema/license.jsonld",
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
   "id": "CeCILL",
   "identifiers": {
     "spdx": [

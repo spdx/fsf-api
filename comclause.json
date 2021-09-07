@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "comclause",
+  "name": "Commons Clause",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#comclause",
+    "https://directory.fsf.org/wiki/License:Commons-Clause"
+  ]
+}

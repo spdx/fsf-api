@@ -1,5 +1,5 @@
 {
-  "@context": "https://wking.github.io/fsf-api/schema/license.jsonld",
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
   "id": "Aladdin",
   "identifiers": {
     "spdx": [
@@ -11,6 +11,7 @@
     "non-free"
   ],
   "uris": [
-    "https://www.gnu.org/licenses/license-list.html#Aladdin"
+    "https://www.gnu.org/licenses/license-list.html#Aladdin",
+    "https://directory.fsf.org/wiki/License:Aladdin"
   ]
 }
