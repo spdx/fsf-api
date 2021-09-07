@@ -18,7 +18,7 @@ import lxml.etree
 
 
 SOURCE_URI = 'https://www.gnu.org/licenses/license-list.html'
-API_BASE_URI = 'https://wking.github.io/fsf-api/'
+API_BASE_URI = 'https://spdx.github.io/fsf-api/'
 
 TAGS = {
     'blue': {'viewpoint'},
