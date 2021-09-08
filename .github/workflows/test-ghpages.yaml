@@ -10,7 +10,7 @@ on:  # yamllint disable-line rule:truthy
     branches: [master, main, '*.*', 'staging*', 'production']
 
 jobs:
-  deploy:
+  build:
     name: Build API
 
     runs-on: ubuntu-latest
@@ -29,9 +29,4 @@ jobs:
       shell: bash
       run: ./ci/build.sh
     - name: Check output directory is not empty
-      shell: python
-      run: |
-        import sys
-        from pathlib import Path
-        dir_empty = not any(Path('fsf-api-build-output').iterdir())
-        if dir_empty: sys.exit("The output directory was empty")
+      run: python -bb -X dev -W error ./ci/check_dir_empty.py fsf-api-build-output
