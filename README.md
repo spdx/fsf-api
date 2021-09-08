@@ -83,7 +83,9 @@ There are currently some hacks in [the pulling script](pull.py):
 Until these hacks are addressed, license IDs and the `tags` and `identifiers` fields should be taken with a grain of salt.
 
 ## Credits
-The original implementation of the fsf-api was provided by @wking.  This repository is now being maintained by the SPDX community.
+
+The original implementation of the fsf-api was provided by @wking.
+This repository is now being maintained by the SPDX community.
 
 ## Contributing
 
