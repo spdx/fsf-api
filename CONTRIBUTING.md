@@ -21,4 +21,4 @@ If you would prefer to send a patch or grant access to pull from your own Git re
 However you choose to contribute, please sign-off each of your commits to certify them under the terms of the [Developer Certificate of Origin](https://developercertificate.org/).
 Git has built-in support for signing off: `git commit -s` signs a current commit, and `git rebase --signoff <revision-range>` retroactively signs a range of past commits.
 
-The content of the `master` branch is available under [the MIT license](LICENSE.md).
+The content of the `master` branch is available under [the MIT (Expat) license](LICENSE.md).
