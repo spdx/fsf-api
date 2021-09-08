@@ -16,18 +16,6 @@ Work along similar lines may already be in progress.
 To submit a pull request via GitHub, fork the repository, create a topic branch from `master` for your work, and send a pull request when ready.
 If you would prefer to send a patch or grant access to pull from your own Git repository, please contact the project's contributors by email.
 
-The extracted data is in the `gh-pages` branch.
-
-To generate a pull request for the data, clone the gh-pages branch into a separate directory:
-
-    $ git clone -b gh-pages https://github.com/spdx/fsf-api.git data
-	
-Run the pull.py script with the data directory as the parameter:
-
-	$ python ../fsf-api/pull.py data
-
-You can then create a pull request for the updated data.
-
 ## Signing Your Changes
 
 However you choose to contribute, please sign-off each of your commits to certify them under the terms of the [Developer Certificate of Origin](https://developercertificate.org/).
