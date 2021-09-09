@@ -10,26 +10,26 @@ Ideally we'll hand this repository over to the FSF once they're ready to maintai
 ## Endpoints
 
 <a name="licenses.json"></a>
-You can pull an array of identifiers from [https://wking.github.io/fsf-api/licenses.json](https://wking.github.io/fsf-api/licenses.json).
+You can pull an array of identifiers from [https://spdx.github.io/fsf-api/licenses.json](https://spdx.github.io/fsf-api/licenses.json).
 
 <a name="licenses-full.json"></a>
-You can pull an object with all the license data [https://wking.github.io/fsf-api/licenses-full.json](https://wking.github.io/fsf-api/licenses-full.json).
+You can pull an object with all the license data [https://spdx.github.io/fsf-api/licenses-full.json](https://spdx.github.io/fsf-api/licenses-full.json).
 
 You can pull an individual license from a few places:
 
 * <a name="by-fsf-id"></a>
     Using their FSF ID:
 
-        https://wking.github.io/fsf-api/{id}.json
+        https://spdx.github.io/fsf-api/{id}.json
 
-    For example [https://wking.github.io/fsf-api/Expat.json](https://wking.github.io/fsf-api/Expat.json).
+    For example [https://spdx.github.io/fsf-api/Expat.json](https://spdx.github.io/fsf-api/Expat.json).
 
 * <a name="by-non-fsf-id"></a>
     Using a non-FSF ID, according to the mapping between other scheme and the FSF scheme asserted by this API:
 
-        https://wking.github.io/fsf-api/{scheme}/{id}.json
+        https://spdx.github.io/fsf-api/{scheme}/{id}.json
 
-    For example [https://wking.github.io/fsf-api/spdx/MIT.json](https://wking.github.io/fsf-api/spdx/MIT.json).
+    For example [https://spdx.github.io/fsf-api/spdx/MIT.json](https://spdx.github.io/fsf-api/spdx/MIT.json).
     This API currently [attempts](#caveats) to maintain the following mappings:
 
     * `spdx`, using [the SPDX identifiers][spdx-list].
@@ -82,13 +82,18 @@ There are currently some hacks in [the pulling script](pull.py):
 
 Until these hacks are addressed, license IDs and the `tags` and `identifiers` fields should be taken with a grain of salt.
 
+## Credits
+
+The original implementation of the fsf-api was provided by @wking.
+This repository is now being maintained by the SPDX community.
+
 ## Contributing
 
 [Contributions](CONTRIBUTING.md) are welcome!
 
 [automated-matching]: https://github.com/spdx/license-list-XML/issues/418
 [fsf-afl]: https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense
-[fsf-api]: https://lists.spdx.org/pipermail/spdx-legal/2017-October/002281.html
+[fsf-api]: https://lists.spdx.org/g/Spdx-legal/topic/providing_access_to_fsf/22080894
 [fsf-freebsd-fdl]: https://www.gnu.org/licenses/license-list.html#FreeBSDDL
 [fsf-freebsd-gpl]: https://www.gnu.org/licenses/license-list.html#FreeBSD
 [fsf-gplv3]: https://www.gnu.org/licenses/license-list.html#GNUGPLv3

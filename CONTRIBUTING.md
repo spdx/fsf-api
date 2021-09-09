@@ -1,18 +1,24 @@
+# Contributing Guide
+
+## Reporting Issues
+
+`fsf-api` has a [project page on GitHub](https://github.com/spdx/fsf-api) where you can [create an issue](https://github.com/spdx/fsf-api/issues/new/choose) to report a bug, make a suggestion, or propose a substantial change or improvement that you might like to make.
+You may also wish to contact the SPDX working group technical team through its mailing list, [spdx-tech@lists.spdx.org](mailto:spdx-tech@lists.spdx.org).
+
+If you would like to work on a fix for any issue, please assign the issue to yourself prior to creating a Pull Request.
+
+## Submitting Pull Requests
+
 The `master` branch of this repository contains [the pulling script](pull.py) and associated documentation.
-The extracted data is in the `gh-pages` branch.
-To contribute to this project, clone it:
+Please review [open pull requests](https://github.com/spdx/fsf-api/pulls) and [active branches](https://github.com/spdx/fsf-api/branches) before committing time to a substantial revision.
+Work along similar lines may already be in progress.
 
-    $ git clone https://github.com/wking/fsf-api.git
+To submit a pull request via GitHub, fork the repository, create a topic branch from `master` for your work, and send a pull request when ready.
+If you would prefer to send a patch or grant access to pull from your own Git repository, please contact the project's contributors by email.
 
-And clone another directory to hold `gh-pages`:
+## Signing Your Changes
 
-    $ cd fsf-api
-    $ git clone -b gh-pages https://github.com/wking/fsf-api.git data
+However you choose to contribute, please sign-off each of your commits to certify them under the terms of the [Developer Certificate of Origin](https://developercertificate.org/).
+Git has built-in support for signing off: `git commit -s` signs a current commit, and `git rebase --signoff <revision-range>` retroactively signs a range of past commits.
 
-After committing a change to `pull.py` in `fsf-api`, change into the data directory, rebuild, and publish:
-
-    $ cd data
-    $ make commit
-    $ git push origin gh-pages
-
-The content of the `master` branch is available under [the MIT license](LICENSE.md).
+The content of the `master` branch is available under [the MIT (Expat) license](LICENSE.md).
