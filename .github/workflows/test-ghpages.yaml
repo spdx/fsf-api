@@ -1,0 +1,32 @@
+# Build the project and test that it works correctly
+# Based on https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Test
+
+on:  # yamllint disable-line rule:truthy
+  push:
+    branches: ['staging*']
+  pull_request:
+    branches: [master, main, '*.*', 'staging*', 'production']
+
+jobs:
+  build:
+    name: Build API
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout source repository
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      shell: bash
+      run: ./ci/install.sh
+    - name: Build API content
+      shell: bash
+      run: ./ci/build.sh
+    - name: Check output directory is not empty
+      run: python -bb -X dev -W error ./ci/check_dir_empty.py fsf-api-build-output
