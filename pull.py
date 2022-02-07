@@ -99,7 +99,7 @@ TAG_OVERRIDES = {
 }
 
 IDENTIFIERS = {
-    'AGPLv1.0': {'spdx': ['AGPL-1.0']},
+    'AGPLv1.0': {'spdx': ['AGPL-1.0-or-later', 'AGPL-1.0-only', 'AGPL-1.0']},
     'AGPLv3.0': {'spdx': ['AGPL-3.0-or-later', 'AGPL-3.0-only', 'AGPL-3.0']},
     'AcademicFreeLicense1.1': {'spdx': ['AFL-1.1']},
     'AcademicFreeLicense1.2': {'spdx': ['AFL-1.2']},
