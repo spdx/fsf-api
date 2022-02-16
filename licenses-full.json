@@ -16,6 +16,8 @@
       "id": "AGPLv1.0",
       "identifiers": {
         "spdx": [
+          "AGPL-1.0-or-later",
+          "AGPL-1.0-only",
           "AGPL-1.0"
         ]
       },
@@ -25,7 +27,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#AGPLv1.0",
-        "http://directory.fsf.org/wiki/License:AGPLv1"
+        "https://directory.fsf.org/wiki/License:AGPLv1"
       ]
     },
     "AGPLv3.0": {
@@ -70,7 +72,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense",
-        "http://directory.fsf.org/wiki/License:AFLv3"
+        "https://directory.fsf.org/wiki/License:AFLv3"
       ]
     },
     "AcademicFreeLicense1.2": {
@@ -86,7 +88,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense",
-        "http://directory.fsf.org/wiki/License:AFLv3"
+        "https://directory.fsf.org/wiki/License:AFLv3"
       ]
     },
     "AcademicFreeLicense2.0": {
@@ -102,7 +104,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense",
-        "http://directory.fsf.org/wiki/License:AFLv3"
+        "https://directory.fsf.org/wiki/License:AFLv3"
       ]
     },
     "AcademicFreeLicense2.1": {
@@ -118,7 +120,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense",
-        "http://directory.fsf.org/wiki/License:AFLv3"
+        "https://directory.fsf.org/wiki/License:AFLv3"
       ]
     },
     "AcademicFreeLicense3.0": {
@@ -134,7 +136,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense",
-        "http://directory.fsf.org/wiki/License:AFLv3"
+        "https://directory.fsf.org/wiki/License:AFLv3"
       ]
     },
     "Aladdin": {
@@ -188,7 +190,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ArtisticLicense",
-        "http://directory.fsf.org/wiki/License:Artistic_v1.0"
+        "https://directory.fsf.org/wiki/License:Artistic_v1.0"
       ]
     },
     "ArtisticLicense2": {
@@ -206,7 +208,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ArtisticLicense2",
-        "http://directory.fsf.org/wiki/License:ArtisticLicense2.0"
+        "https://directory.fsf.org/wiki/License:ArtisticLicense2.0"
       ]
     },
     "BerkeleyDB": {
@@ -224,7 +226,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#BerkeleyDB",
-        "http://directory.fsf.org/wiki/License:Sleepycat"
+        "https://directory.fsf.org/wiki/License:Sleepycat"
       ]
     },
     "CC-BY-NC-1.0": {
@@ -405,7 +407,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#CC0",
-        "http://directory.fsf.org/wiki/License:CC0"
+        "https://directory.fsf.org/wiki/License:CC0"
       ]
     },
     "CDDL": {
@@ -421,7 +423,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#CDDL",
-        "http://directory.fsf.org/wiki/License:CDDLv1.0"
+        "https://directory.fsf.org/wiki/License:CDDLv1.0"
       ]
     },
     "CPAL": {
@@ -521,7 +523,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#CommonPublicLicense10",
-        "http://directory.fsf.org/wiki/License:CPLv1.0"
+        "https://directory.fsf.org/wiki/License:CPLv1.0"
       ]
     },
     "Condor": {
@@ -537,7 +539,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Condor",
-        "http://directory.fsf.org/wiki?title=License:Condor1.1"
+        "https://directory.fsf.org/wiki?title=License:Condor1.1"
       ]
     },
     "CryptixGeneralLicense": {
@@ -550,7 +552,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#CryptixGeneralLicense",
-        "http://directory.fsf.org/wiki/License:CryptixGL"
+        "https://directory.fsf.org/wiki/License:CryptixGL"
       ]
     },
     "DOR": {
@@ -578,7 +580,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ECL2.0",
-        "http://directory.fsf.org/wiki/License:ECL2.0"
+        "https://directory.fsf.org/wiki/License:ECL2.0"
       ]
     },
     "EPL": {
@@ -594,7 +596,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#EPL",
-        "http://directory.fsf.org/wiki/License:EPLv1.0"
+        "https://directory.fsf.org/wiki/License:EPLv1.0"
       ]
     },
     "EPL2": {
@@ -628,7 +630,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#EUDataGrid",
-        "http://directory.fsf.org/wiki/License:EUDataGrid"
+        "https://directory.fsf.org/wiki/License:EUDataGrid"
       ]
     },
     "EUPL-1.1": {
@@ -644,7 +646,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#EUPL-1.1",
-        "http://directory.fsf.org/wiki/License:EUPLv1.1"
+        "https://directory.fsf.org/wiki/License:EUPLv1.1"
       ]
     },
     "EUPL-1.2": {
@@ -660,7 +662,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#EUPL-1.2",
-        "http://directory.fsf.org/wiki/License:EUPLv1.2"
+        "https://directory.fsf.org/wiki/License:EUPLv1.2"
       ]
     },
     "Eiffel": {
@@ -678,7 +680,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Eiffel",
-        "http://directory.fsf.org/wiki/License:EFLv2"
+        "https://directory.fsf.org/wiki/License:EFLv2"
       ]
     },
     "Expat": {
@@ -696,7 +698,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Expat",
-        "http://directory.fsf.org/wiki/License:Expat"
+        "https://directory.fsf.org/wiki/License:Expat"
       ]
     },
     "FDLv1.1": {
@@ -788,8 +790,9 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#FreeBSD",
-        "http://directory.fsf.org/wiki?title=License:FreeBSD",
-        "https://www.gnu.org/licenses/license-list.html#FreeBSDDL"
+        "https://directory.fsf.org/wiki?title=License:FreeBSD",
+        "https://www.gnu.org/licenses/license-list.html#FreeBSDDL",
+        "https://directory.fsf.org/wiki?title=License:FreeBSD-DL"
       ]
     },
     "GNUAllPermissive": {
@@ -849,7 +852,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#GPL-PA",
-        "http://directory.fsf.org/wiki/License:GPL-PA"
+        "https://directory.fsf.org/wiki/License:GPL-PA"
       ]
     },
     "GPLFonts": {
@@ -924,7 +927,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#HPND",
-        "http://directory.fsf.org/wiki/License:Historical_Permission_Notice_and_Disclaimer"
+        "https://directory.fsf.org/wiki/License:Historical_Permission_Notice_and_Disclaimer"
       ]
     },
     "IBMPL": {
@@ -940,7 +943,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#IBMPL",
-        "http://directory.fsf.org/wiki/License:IBMPLv1.0"
+        "https://directory.fsf.org/wiki/License:IBMPLv1.0"
       ]
     },
     "IPAFONT": {
@@ -956,7 +959,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#IPAFONT",
-        "http://directory.fsf.org/wiki/License:IPA_Font_License"
+        "https://directory.fsf.org/wiki/License:IPA_Font_License"
       ]
     },
     "ISC": {
@@ -974,7 +977,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ISC",
-        "http://directory.fsf.org/wiki/License:ISC"
+        "https://directory.fsf.org/wiki/License:ISC"
       ]
     },
     "JSON": {
@@ -990,7 +993,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#JSON",
-        "http://directory.fsf.org/wiki/License:JSON"
+        "https://directory.fsf.org/wiki/License:JSON"
       ]
     },
     "Jahia": {
@@ -1058,7 +1061,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#LPPL-1.2",
-        "http://directory.fsf.org/wiki/License:LPPLv1.2"
+        "https://directory.fsf.org/wiki/License:LPPLv1.2"
       ]
     },
     "LPPL-1.3a": {
@@ -1074,7 +1077,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#LPPL-1.3a",
-        "http://directory.fsf.org/wiki/License:LPPLv1.3a"
+        "https://directory.fsf.org/wiki/License:LPPLv1.3a"
       ]
     },
     "Lha": {
@@ -1085,7 +1088,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Lha",
-        "http://directory.fsf.org/wiki/License:Lha"
+        "https://directory.fsf.org/wiki/License:Lha"
       ]
     },
     "MPL": {
@@ -1101,7 +1104,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#MPL",
-        "http://directory.fsf.org/wiki/License:MPLv1.1"
+        "https://directory.fsf.org/wiki/License:MPLv1.1"
       ]
     },
     "MPL-2.0": {
@@ -1119,7 +1122,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#MPL-2.0",
-        "http://directory.fsf.org/wiki/License:MPLv2.0"
+        "https://directory.fsf.org/wiki/License:MPLv2.0"
       ]
     },
     "ModifiedBSD": {
@@ -1137,7 +1140,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ModifiedBSD",
-        "http://directory.fsf.org/wiki/License:BSD_3Clause"
+        "https://directory.fsf.org/wiki/License:BSD_3Clause"
       ]
     },
     "Ms-SS": {
@@ -1148,7 +1151,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Ms-SS",
-        "http://directory.fsf.org/wiki/License:Ms-SS"
+        "https://directory.fsf.org/wiki/License:Ms-SS"
       ]
     },
     "NASA": {
@@ -1164,7 +1167,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#NASA",
-        "http://directory.fsf.org/wiki/License:NASA-OSA_v1.3"
+        "https://directory.fsf.org/wiki/License:NASA-OSA_v1.3"
       ]
     },
     "NCSA": {
@@ -1182,7 +1185,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#NCSA",
-        "http://directory.fsf.org/wiki/License:IllinoisNCSA"
+        "https://directory.fsf.org/wiki/License:IllinoisNCSA"
       ]
     },
     "NOSL": {
@@ -1198,7 +1201,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#NOSL",
-        "http://directory.fsf.org/wiki/License:NOSLv1.0"
+        "https://directory.fsf.org/wiki/License:NOSLv1.0"
       ]
     },
     "NPL-1.0": {
@@ -1214,7 +1217,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#NPL",
-        "http://directory.fsf.org/wiki?title=License:NPLv1.1"
+        "https://directory.fsf.org/wiki?title=License:NPLv1.1"
       ]
     },
     "NPL-1.1": {
@@ -1230,7 +1233,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#NPL",
-        "http://directory.fsf.org/wiki?title=License:NPLv1.1"
+        "https://directory.fsf.org/wiki?title=License:NPLv1.1"
       ]
     },
     "NoLicense": {
@@ -1261,7 +1264,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Nokia",
-        "http://directory.fsf.org/wiki/License:NokOSv1.0a"
+        "https://directory.fsf.org/wiki/License:NokOSv1.0a"
       ]
     },
     "ODbl": {
@@ -1277,7 +1280,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ODbl",
-        "http://directory.fsf.org/wiki/License:ODbl"
+        "https://directory.fsf.org/wiki/License:ODbl"
       ]
     },
     "OSL-1.0": {
@@ -1293,7 +1296,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#OSL",
-        "http://directory.fsf.org/wiki/License:OSLv3.0"
+        "https://directory.fsf.org/wiki/License:OSLv3.0"
       ]
     },
     "OSL-1.1": {
@@ -1309,7 +1312,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#OSL",
-        "http://directory.fsf.org/wiki/License:OSLv3.0"
+        "https://directory.fsf.org/wiki/License:OSLv3.0"
       ]
     },
     "OSL-2.0": {
@@ -1325,7 +1328,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#OSL",
-        "http://directory.fsf.org/wiki/License:OSLv3.0"
+        "https://directory.fsf.org/wiki/License:OSLv3.0"
       ]
     },
     "OSL-2.1": {
@@ -1341,7 +1344,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#OSL",
-        "http://directory.fsf.org/wiki/License:OSLv3.0"
+        "https://directory.fsf.org/wiki/License:OSLv3.0"
       ]
     },
     "OSL-3.0": {
@@ -1357,7 +1360,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#OSL",
-        "http://directory.fsf.org/wiki/License:OSLv3.0"
+        "https://directory.fsf.org/wiki/License:OSLv3.0"
       ]
     },
     "OculusRiftSDK": {
@@ -1368,7 +1371,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#OculusRiftSDK",
-        "http://directory.fsf.org/wiki/License:Oculus_VR_Rift_SDK_License"
+        "https://directory.fsf.org/wiki/License:Oculus_VR_Rift_SDK_License"
       ]
     },
     "OpenContentL": {
@@ -1395,7 +1398,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#OpenPublicL",
-        "http://directory.fsf.org/wiki/License:OpenPLv1.0"
+        "https://directory.fsf.org/wiki/License:OpenPLv1.0"
       ]
     },
     "OpenPublicationL": {
@@ -1422,7 +1425,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#OpenSSL",
-        "http://directory.fsf.org/wiki/License:OpenSSL"
+        "https://directory.fsf.org/wiki/License:OpenSSL"
       ]
     },
     "OriginalBSD": {
@@ -1438,7 +1441,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#OriginalBSD",
-        "http://directory.fsf.org/wiki/License:BSD_4Clause"
+        "https://directory.fsf.org/wiki/License:BSD_4Clause"
       ]
     },
     "PHP-3.01": {
@@ -1454,7 +1457,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#PHP-3.01",
-        "http://directory.fsf.org/wiki/License:PHPv3.01"
+        "https://directory.fsf.org/wiki/License:PHPv3.01"
       ]
     },
     "PINE": {
@@ -1465,7 +1468,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#PINE",
-        "http://directory.fsf.org/wiki/License:PINE"
+        "https://directory.fsf.org/wiki/License:PINE"
       ]
     },
     "PPL": {
@@ -1476,7 +1479,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#PPL",
-        "http://directory.fsf.org/wiki/License:PPL"
+        "https://directory.fsf.org/wiki/License:PPL"
       ]
     },
     "PPL3a": {
@@ -1510,7 +1513,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Phorum",
-        "http://directory.fsf.org/wiki/License:Phorum2.0"
+        "https://directory.fsf.org/wiki/License:Phorum2.0"
       ]
     },
     "Plan9": {
@@ -1534,7 +1537,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#PublicDomain",
-        "http://directory.fsf.org/wiki/License:PublicDomain"
+        "https://directory.fsf.org/wiki/License:PublicDomain"
       ]
     },
     "Python": {
@@ -1547,7 +1550,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Python",
-        "http://directory.fsf.org/wiki?title=License:Python2.0.1"
+        "https://directory.fsf.org/wiki?title=License:Python2.0.1"
       ]
     },
     "Python1.6a2": {
@@ -1560,7 +1563,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Python1.6a2",
-        "http://directory.fsf.org/wiki?title=License:Python1.6a2"
+        "https://directory.fsf.org/wiki?title=License:Python1.6a2"
       ]
     },
     "Python1.6b1": {
@@ -1571,7 +1574,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#PythonOld",
-        "http://directory.fsf.org/wiki/License:Python1.6b1"
+        "https://directory.fsf.org/wiki/License:Python1.6b1"
       ]
     },
     "Python2.0": {
@@ -1587,7 +1590,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#PythonOld",
-        "http://directory.fsf.org/wiki/License:Python1.6b1"
+        "https://directory.fsf.org/wiki/License:Python1.6b1"
       ]
     },
     "Python2.1": {
@@ -1598,7 +1601,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#PythonOld",
-        "http://directory.fsf.org/wiki/License:Python1.6b1"
+        "https://directory.fsf.org/wiki/License:Python1.6b1"
       ]
     },
     "QPL": {
@@ -1614,7 +1617,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#QPL",
-        "http://directory.fsf.org/wiki/License:QPLv1.0"
+        "https://directory.fsf.org/wiki/License:QPLv1.0"
       ]
     },
     "RPL": {
@@ -1625,7 +1628,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#RPL",
-        "http://directory.fsf.org/wiki/License:ReciprocalPLv1.3"
+        "https://directory.fsf.org/wiki/License:ReciprocalPLv1.3"
       ]
     },
     "RPSL": {
@@ -1641,7 +1644,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#RPSL",
-        "http://directory.fsf.org/wiki/License:RPSLv1.0"
+        "https://directory.fsf.org/wiki/License:RPSLv1.0"
       ]
     },
     "Ruby": {
@@ -1659,7 +1662,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Ruby",
-        "http://directory.fsf.org/wiki/License:Ruby"
+        "https://directory.fsf.org/wiki/License:Ruby"
       ]
     },
     "SGIFreeB": {
@@ -1677,7 +1680,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#SGIFreeB",
-        "http://directory.fsf.org/wiki/License:SGIFreeBv2"
+        "https://directory.fsf.org/wiki/License:SGIFreeBv2"
       ]
     },
     "SILOFL-1.0": {
@@ -1693,7 +1696,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#SILOFL",
-        "http://directory.fsf.org/wiki/SIL_Open_Font_License_1.1"
+        "https://directory.fsf.org/wiki/SIL_Open_Font_License_1.1"
       ]
     },
     "SILOFL-1.1": {
@@ -1709,7 +1712,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#SILOFL",
-        "http://directory.fsf.org/wiki/SIL_Open_Font_License_1.1"
+        "https://directory.fsf.org/wiki/SIL_Open_Font_License_1.1"
       ]
     },
     "SISSL": {
@@ -1731,7 +1734,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#SML",
-        "http://directory.fsf.org/wiki/License:SimpleM"
+        "https://directory.fsf.org/wiki/License:SimpleM"
       ]
     },
     "SPL": {
@@ -1747,7 +1750,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#SPL",
-        "http://directory.fsf.org/wiki/License:SPLv1.0"
+        "https://directory.fsf.org/wiki/License:SPLv1.0"
       ]
     },
     "Scilab": {
@@ -1758,7 +1761,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Scilab",
-        "http://directory.fsf.org/wiki/License:Scilab-old"
+        "https://directory.fsf.org/wiki/License:Scilab-old"
       ]
     },
     "Scratch": {
@@ -1769,7 +1772,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Scratch",
-        "http://directory.fsf.org/wiki/License:Scratch"
+        "https://directory.fsf.org/wiki/License:Scratch"
       ]
     },
     "Squeak": {
@@ -1780,7 +1783,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Squeak",
-        "http://directory.fsf.org/wiki/License:Squeak-old"
+        "https://directory.fsf.org/wiki/License:Squeak-old"
       ]
     },
     "StandardMLofNJ": {
@@ -1799,7 +1802,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#StandardMLofNJ",
-        "http://directory.fsf.org/wiki/License:StandardMLofNJ"
+        "https://directory.fsf.org/wiki/License:StandardMLofNJ"
       ]
     },
     "SunCommunitySourceLicense": {
@@ -1810,7 +1813,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#SunCommunitySourceLicense",
-        "http://directory.fsf.org/wiki/License:SunCSLv2.8"
+        "https://directory.fsf.org/wiki/License:SunCSLv2.8"
       ]
     },
     "SunSolarisSourceCode": {
@@ -1843,7 +1846,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Truecrypt-3.0",
-        "http://directory.fsf.org/wiki/License:TrueCrypt"
+        "https://directory.fsf.org/wiki/License:TrueCrypt"
       ]
     },
     "UPL": {
@@ -1861,7 +1864,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#UPL",
-        "http://directory.fsf.org/wiki/License:Universal_Permissive_License"
+        "https://directory.fsf.org/wiki/License:Universal_Permissive_License"
       ]
     },
     "Unicode": {
@@ -1874,7 +1877,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Unicode",
-        "http://directory.fsf.org/wiki/License:Unicode"
+        "https://directory.fsf.org/wiki/License:Unicode"
       ]
     },
     "Unlicense": {
@@ -1892,7 +1895,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Unlicense",
-        "http://directory.fsf.org/wiki/License:TheUnlicense"
+        "https://directory.fsf.org/wiki/License:TheUnlicense"
       ]
     },
     "UtahPublicLicense": {
@@ -1921,7 +1924,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Vim",
-        "http://directory.fsf.org/wiki/License:Vim7.2"
+        "https://directory.fsf.org/wiki/License:Vim7.2"
       ]
     },
     "W3C": {
@@ -1939,7 +1942,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#W3C",
-        "http://directory.fsf.org/wiki/License:W3C_31Dec2002"
+        "https://directory.fsf.org/wiki/License:W3C_31Dec2002"
       ]
     },
     "WTFPL": {
@@ -1986,7 +1989,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#WebM",
-        "http://directory.fsf.org/wiki/License:WebM"
+        "https://directory.fsf.org/wiki/License:WebM"
       ]
     },
     "X11License": {
@@ -2004,7 +2007,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#X11License",
-        "http://directory.fsf.org/wiki/License:X11"
+        "https://directory.fsf.org/wiki/License:X11"
       ]
     },
     "XFree861.1License": {
@@ -2022,7 +2025,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#XFree861.1License",
-        "http://directory.fsf.org/wiki/License:XFree86_1.1"
+        "https://directory.fsf.org/wiki/License:XFree86_1.1"
       ]
     },
     "YaST": {
@@ -2049,7 +2052,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Yahoo",
-        "http://directory.fsf.org/wiki/License:YPLv1.1"
+        "https://directory.fsf.org/wiki/License:YPLv1.1"
       ]
     },
     "ZLib": {
@@ -2068,7 +2071,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ZLib",
-        "http://directory.fsf.org/wiki/License:Zlib"
+        "https://directory.fsf.org/wiki/License:Zlib"
       ]
     },
     "Zend": {
@@ -2084,7 +2087,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Zend",
-        "http://directory.fsf.org/wiki/License:ZELv2.0"
+        "https://directory.fsf.org/wiki/License:ZELv2.0"
       ]
     },
     "Zimbra": {
@@ -2129,7 +2132,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Zope2.0",
-        "http://directory.fsf.org/wiki?title=License:ZopePLv2.1"
+        "https://directory.fsf.org/wiki?title=License:ZopePLv2.1"
       ]
     },
     "Zope2.1": {
@@ -2147,7 +2150,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Zope2.0",
-        "http://directory.fsf.org/wiki?title=License:ZopePLv2.1"
+        "https://directory.fsf.org/wiki?title=License:ZopePLv2.1"
       ]
     },
     "anticapitalist": {
@@ -2173,7 +2176,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#apache1",
-        "http://directory.fsf.org/wiki/License:Apache1.0"
+        "https://directory.fsf.org/wiki/License:Apache1.0"
       ]
     },
     "apache1.1": {
@@ -2189,7 +2192,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#apache1.1",
-        "http://directory.fsf.org/wiki/License:Apache1.1"
+        "https://directory.fsf.org/wiki/License:Apache1.1"
       ]
     },
     "apache2": {
@@ -2206,7 +2209,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#apache2",
-        "http://directory.fsf.org/wiki/License:Apache2.0"
+        "https://directory.fsf.org/wiki/License:Apache2.0"
       ]
     },
     "apsl1": {
@@ -2222,7 +2225,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#apsl1",
-        "http://directory.fsf.org/wiki/License:APSLv1.x"
+        "https://directory.fsf.org/wiki/License:APSLv1.x"
       ]
     },
     "apsl2": {
@@ -2238,7 +2241,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#apsl2",
-        "http://directory.fsf.org/wiki/License:APSLv2.0"
+        "https://directory.fsf.org/wiki/License:APSLv2.0"
       ]
     },
     "bittorrent": {
@@ -2254,7 +2257,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#bittorrent",
-        "http://directory.fsf.org/wiki/License:BitTorrentOSL1.1"
+        "https://directory.fsf.org/wiki/License:BitTorrentOSL1.1"
       ]
     },
     "boost": {
@@ -2272,7 +2275,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#boost",
-        "http://directory.fsf.org/wiki/License:Boost1.0"
+        "https://directory.fsf.org/wiki/License:Boost1.0"
       ]
     },
     "ccby": {
@@ -2324,7 +2327,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#clearbsd",
-        "http://directory.fsf.org/wiki/License:ClearBSD"
+        "https://directory.fsf.org/wiki/License:ClearBSD"
       ]
     },
     "comclause": {
@@ -2377,7 +2380,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#eCos11",
-        "http://directory.fsf.org/wiki/License:ECosPLv1.1"
+        "https://directory.fsf.org/wiki/License:ECosPLv1.1"
       ]
     },
     "eCos2.0": {
@@ -2396,7 +2399,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#eCos2.0",
-        "http://directory.fsf.org/wiki/License:ECos2.0"
+        "https://directory.fsf.org/wiki/License:ECos2.0"
       ]
     },
     "ecfonts": {
@@ -2407,7 +2410,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ecfonts",
-        "http://directory.fsf.org/wiki/License:LaTeX_ecfonts"
+        "https://directory.fsf.org/wiki/License:LaTeX_ecfonts"
       ]
     },
     "fdk": {
@@ -2418,7 +2421,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#fdk",
-        "http://directory.fsf.org/wiki/License:fdk"
+        "https://directory.fsf.org/wiki/License:fdk"
       ]
     },
     "freetype": {
@@ -2435,7 +2438,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#freetype",
-        "http://directory.fsf.org/wiki/License:FreeType"
+        "https://directory.fsf.org/wiki/License:FreeType"
       ]
     },
     "gnuplot": {
@@ -2451,7 +2454,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#gnuplot",
-        "http://directory.fsf.org/wiki/License:Gnuplot"
+        "https://directory.fsf.org/wiki/License:Gnuplot"
       ]
     },
     "hippocratic": {
@@ -2480,7 +2483,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#iMatix",
-        "http://directory.fsf.org/wiki?title=License:SFL"
+        "https://directory.fsf.org/wiki?title=License:SFL"
       ]
     },
     "ijg": {
@@ -2498,7 +2501,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ijg",
-        "http://directory.fsf.org/wiki?title=License:JPEG"
+        "https://directory.fsf.org/wiki?title=License:JPEG"
       ]
     },
     "imlib": {
@@ -2516,7 +2519,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#imlib",
-        "http://directory.fsf.org/wiki/License:Imlib2"
+        "https://directory.fsf.org/wiki/License:Imlib2"
       ]
     },
     "informal": {
@@ -2546,7 +2549,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#intel",
-        "http://directory.fsf.org/wiki/License:IntelACPI"
+        "https://directory.fsf.org/wiki/License:IntelACPI"
       ]
     },
     "josl": {
@@ -2557,7 +2560,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#josl",
-        "http://directory.fsf.org/wiki/License:JabberOSLv1.0"
+        "https://directory.fsf.org/wiki/License:JabberOSLv1.0"
       ]
     },
     "ksh93": {
@@ -2584,7 +2587,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#lucent102",
-        "http://directory.fsf.org/wiki/License:LucentPLv1.02"
+        "https://directory.fsf.org/wiki/License:LucentPLv1.02"
       ]
     },
     "ms-pl": {
@@ -2600,7 +2603,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ms-pl",
-        "http://directory.fsf.org/wiki/License:MsPL"
+        "https://directory.fsf.org/wiki/License:MsPL"
       ]
     },
     "ms-rl": {
@@ -2616,7 +2619,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ms-rl",
-        "http://directory.fsf.org/wiki/License:MsRL"
+        "https://directory.fsf.org/wiki/License:MsRL"
       ]
     },
     "newOpenLDAP": {
@@ -2634,7 +2637,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#newOpenLDAP",
-        "http://directory.fsf.org/wiki/License:OpenLDAPv2.7"
+        "https://directory.fsf.org/wiki/License:OpenLDAPv2.7"
       ]
     },
     "oldOpenLDAP": {
@@ -2650,7 +2653,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#oldOpenLDAP",
-        "http://directory.fsf.org/wiki/License:OpenLDAPv2.3"
+        "https://directory.fsf.org/wiki/License:OpenLDAPv2.3"
       ]
     },
     "xinetd": {
@@ -2666,7 +2669,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#xinetd",
-        "http://directory.fsf.org/wiki/License:Xinetd"
+        "https://directory.fsf.org/wiki/License:Xinetd"
       ]
     }
   }
