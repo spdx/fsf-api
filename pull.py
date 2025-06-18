@@ -215,7 +215,7 @@ IDENTIFIERS = {
     'SILOFL-1.1': {'spdx': ['OFL-1.1']},
     'SPL': {'spdx': ['SPL-1.0']},
     'StandardMLofNJ': {'spdx': ['SMLNJ', 'StandardML-NJ']},
-    'Unicodev3': {'spdx': 'Unicode-3.0']},
+    'Unicodev3': {'spdx': ['Unicode-3.0']},
     'Unlicense': {'spdx': ['Unlicense']},
     'UPL': {'spdx': ['UPL-1.0']},
     'Vim': {'spdx': ['Vim']},
