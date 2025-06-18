@@ -225,6 +225,7 @@ IDENTIFIERS = {
     'xinetd': {'spdx': ['xinetd']},
     'Yahoo': {'spdx': ['YPL-1.1']},
     'Zend': {'spdx': ['Zend-2.0']},
+    'Zero-BSD': {'spdx': ['0BSD']},
     'Zimbra': {'spdx': ['Zimbra-1.3']},
     'ZLib': {'spdx': ['Zlib', 'Nunit']},
     'Zope2.0': {'spdx': ['ZPL-2.0']},
