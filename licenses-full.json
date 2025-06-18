@@ -703,6 +703,11 @@
     },
     "Expat0": {
       "id": "Expat0",
+      "identifiers": {
+        "spdx": [
+          "MIT-0"
+        ]
+      },
       "name": "Expat No Attribution License",
       "tags": [
         "gpl-2-compatible",
@@ -1906,6 +1911,11 @@
     },
     "Unicodev3": {
       "id": "Unicodev3",
+      "identifiers": {
+        "spdx": [
+          "Unicode-3.0"
+        ]
+      },
       "name": "Unicode License v3",
       "tags": [
         "gpl-2-compatible",
