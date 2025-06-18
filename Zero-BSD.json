@@ -1,19 +1,19 @@
 {
   "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
-  "id": "CC0",
+  "id": "Zero-BSD",
   "identifiers": {
     "spdx": [
-      "CC0-1.0"
+      "0BSD"
     ]
   },
-  "name": "CC0 1.0 Universal",
+  "name": "Zero-clause BSD license",
   "tags": [
     "gpl-2-compatible",
     "gpl-3-compatible",
     "libre"
   ],
   "uris": [
-    "https://www.gnu.org/licenses/license-list.html#CC0",
-    "https://creativecommons.org/publicdomain/zero/1.0/"
+    "https://www.gnu.org/licenses/license-list.html#Zero-BSD",
+    "https://directory.fsf.org/wiki?title=License:Zero-Clause_BSD"
   ]
 }

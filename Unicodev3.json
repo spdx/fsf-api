@@ -1,0 +1,14 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "Unicodev3",
+  "name": "Unicode License v3",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#Unicodev3",
+    "https://directory.fsf.org/wiki/License:Unicode-v3"
+  ]
+}

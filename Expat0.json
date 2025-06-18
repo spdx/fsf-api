@@ -1,0 +1,14 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "Expat0",
+  "name": "Expat No Attribution License",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#Expat0",
+    "https://directory.fsf.org/wiki/License:Expat_No_Attribution"
+  ]
+}

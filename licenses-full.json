@@ -9,7 +9,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#ACDL",
-        "http://fedoraproject.org/wiki/Licensing/Common_Documentation_License"
+        "https://directory.fsf.org/wiki/License:ACDL-1.0"
       ]
     },
     "AGPLv1.0": {
@@ -399,7 +399,7 @@
           "CC0-1.0"
         ]
       },
-      "name": "CC0",
+      "name": "CC0 1.0 Universal",
       "tags": [
         "gpl-2-compatible",
         "gpl-3-compatible",
@@ -407,7 +407,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#CC0",
-        "https://directory.fsf.org/wiki/License:CC0"
+        "https://creativecommons.org/publicdomain/zero/1.0/"
       ]
     },
     "CDDL": {
@@ -473,7 +473,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#CeCILL-B",
-        "https://cecill.info/licences/Licence_CeCILL-B_V1-en.html"
+        "https://spdx.org/licenses/CECILL-B"
       ]
     },
     "CeCILL-C": {
@@ -489,7 +489,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#CeCILL-C",
-        "https://cecill.info/licences/Licence_CeCILL-C_V1-en.html"
+        "https://spdx.org/licenses/CECILL-C"
       ]
     },
     "ClarifiedArtistic": {
@@ -699,6 +699,19 @@
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#Expat",
         "https://directory.fsf.org/wiki/License:Expat"
+      ]
+    },
+    "Expat0": {
+      "id": "Expat0",
+      "name": "Expat No Attribution License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Expat0",
+        "https://directory.fsf.org/wiki/License:Expat_No_Attribution"
       ]
     },
     "FDLv1.1": {
@@ -1091,6 +1104,17 @@
         "https://directory.fsf.org/wiki/License:Lha"
       ]
     },
+    "Llama": {
+      "id": "Llama",
+      "name": "Llama 3.1 Community License Agreement and Llama 3.1 Acceptable Use Policy",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Llama",
+        "https://directory.fsf.org/wiki/License:Llama"
+      ]
+    },
     "MPL": {
       "id": "MPL",
       "identifiers": {
@@ -1409,7 +1433,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#OpenPublicationL",
-        "https://opencontent.org/openpub/"
+        "https://directory.fsf.org/wiki/License:Open_Publication_License_v1.0"
       ]
     },
     "OpenSSL": {
@@ -1880,6 +1904,19 @@
         "https://directory.fsf.org/wiki/License:Unicode"
       ]
     },
+    "Unicodev3": {
+      "id": "Unicodev3",
+      "name": "Unicode License v3",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Unicodev3",
+        "https://directory.fsf.org/wiki/License:Unicode-v3"
+      ]
+    },
     "Unlicense": {
       "id": "Unlicense",
       "identifiers": {
@@ -2090,6 +2127,24 @@
         "https://directory.fsf.org/wiki/License:ZELv2.0"
       ]
     },
+    "Zero-BSD": {
+      "id": "Zero-BSD",
+      "identifiers": {
+        "spdx": [
+          "0BSD"
+        ]
+      },
+      "name": "Zero-clause BSD license",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Zero-BSD",
+        "https://directory.fsf.org/wiki?title=License:Zero-Clause_BSD"
+      ]
+    },
     "Zimbra": {
       "id": "Zimbra",
       "identifiers": {
@@ -2160,7 +2215,8 @@
         "non-free"
       ],
       "uris": [
-        "https://www.gnu.org/licenses/license-list.html#anticapitalist"
+        "https://www.gnu.org/licenses/license-list.html#anticapitalist",
+        "https://directory.fsf.org/wiki/License:ANTI-1.4"
       ]
     },
     "apache1": {
@@ -2353,7 +2409,8 @@
         "non-free"
       ],
       "uris": [
-        "https://www.gnu.org/licenses/license-list.html#cpol"
+        "https://www.gnu.org/licenses/license-list.html#cpol",
+        "https://directory.fsf.org/wiki/License:CPOL-1.02"
       ]
     },
     "dsl": {
@@ -2465,7 +2522,7 @@
       ],
       "uris": [
         "https://www.gnu.org/licenses/license-list.html#hippocratic",
-        "https://web.archive.org/web/20191217000421/https://firstdonoharm.dev/version/1/1/license.txt"
+        "https://directory.fsf.org/wiki/License:THL-1.1"
       ]
     },
     "iMatix": {

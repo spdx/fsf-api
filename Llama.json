@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "Llama",
+  "name": "Llama 3.1 Community License Agreement and Llama 3.1 Acceptable Use Policy",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#Llama",
+    "https://directory.fsf.org/wiki/License:Llama"
+  ]
+}
